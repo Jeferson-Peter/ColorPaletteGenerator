@@ -1,0 +1,17 @@
+{
+    "Red Hot": ["#FF0000", "#FF3300", "#FF6600", "#FF9933", "#FFCC00"],
+    "Vintage Valentine": ["#F88379", "#F08080", "#C41E3A", "#A60026", "#8B0000"],
+    "Tropical Sunset": ["#FF5733", "#FFC300", "#DAF7A6", "#A8E6CE", "#1D3557"],
+    "Passionate Pinks": ["#FF69B4", "#FFC0CB", "#FFB6C1", "#FFA07A", "#DC143C"],
+    "Deep Sea Reds": ["#8B0000", "#B22222", "#DC143C", "#FF6347", "#FF7F50"],
+    "Rustic Reds": ["#C46210", "#D18B47", "#AA4B3B", "#664E4C", "#8B4513"],
+    "Fiery Flames": ["#FF2400", "#FF7F00", "#FFA500", "#FFD700", "#FFFF00"],
+    "Earthy Reds 2": ["#8B0000", "#A52A2A", "#B22222", "#800000", "#964B00"],
+    "Bold and Saturated": ["#FF0040", "#FF4D00", "#FFA600", "#FFFF00", "#00FF00"],
+    "Roses and Wine": ["#B22222", "#C71585", "#DC143C", "#FF69B4", "#800000"],
+    "Elegant Reds": ["#FF7F50", "#CD5C5C", "#FFDAB9", "#FFA07A", "#DC143C"],
+    "Vibrant and Cheerful": ["#FF5733", "#FFC300", "#DAF7A6", "#FFFFE0", "#1D3557"],
+    "Soft and Subtle": ["#F4C2C2", "#F8A7A7", "#FFD2D2", "#FFB6B6", "#FFA0A0"],
+    "Winter Reds": ["#E60000", "#FF1A1A", "#FF4D4D", "#FF9999", "#FFCCCC"],
+    "Golden Reds": ["#C46210", "#DAA520", "#FFA500", "#FFC300", "#FFDAB9"]
+}
