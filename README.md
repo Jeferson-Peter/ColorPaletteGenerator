@@ -34,3 +34,13 @@ python color_palette.py
 ```
 
 3. The script will generate PNG images of the color palettes and save them in a ZIP file called color_palette.zip.
+
+## Results
+
+The Color Palette Generator produces images of color palettes in PNG format, which are saved in a ZIP file. Each color palette is represented by a horizontal row of color boxes with the hexadecimal codes of the corresponding colors displayed below them. Here is an example of what the output may look like:
+
+![Color Palette](readme_img/color_palette's.png)
+
+You can also visualize each individual color palette separately by extracting the corresponding PNG file from the ZIP file. Here is an example of what the "Roses and Wine" color palette looks like:
+
+![Roses and Wine](readme_img/roses_and_wine.png)
