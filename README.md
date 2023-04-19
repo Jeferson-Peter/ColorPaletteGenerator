@@ -5,7 +5,7 @@ The Color Palette Generator is a Python script that generates images of color pa
 ## Dependencies
 The Color Palette Generator requires the following dependencies:
 
-* Python 3.6 or later (This project was made using Python 3.11)
+* Python 3.10 or later
 * Pillow (Python Imaging Library)
 * json (Python JSON module)
 * zipfile (Python ZIP module)
